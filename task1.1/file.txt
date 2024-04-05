@@ -1,0 +1,7 @@
+1. Users can add new contacts with fields for first name last name company job title phone numbers, and email addresses.
+2. Users can update existing contacts' information, including first name, last name, company, job title, phone numbers, and email addresses.
+3. Users can delete contacts from the system.
+4. Users can search for contacts by first name, last name, company, job title, phone number, or email address.
+5. The system should be able to identify and merge duplicate contacts based on matching first name, last name, or email address.
+6. Each email address entry for a contact should include an actual address and a label to indicate its relationship (e.g., home, mobile, work).
+7. Each phone number entry for a contact should include the number and a label indicating its relationship (e.g., home, mobile, work).
